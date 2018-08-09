@@ -5,7 +5,7 @@
        1.	Abstract
        2.	Introduction
        3.	Problem Definition
-       4.     Solution Strategy
+       4.      Solution Strategy
        5.	Objective
        6.	Features
        7.	Project Description
