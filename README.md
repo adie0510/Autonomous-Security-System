@@ -5,9 +5,9 @@
        1.	Abstract
        2.	Introduction
        3.	Problem Definition
-       4.	Objective
-       5.	Features
-       6.	Solution Strategy
+       4.     Solution Strategy
+       5.	Objective
+       6.	Features
        7.	Project Description
        8.	Working of the System
        9.	Architecture Design
